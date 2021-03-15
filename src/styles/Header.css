@@ -1,0 +1,18 @@
+.header{
+    background: #282c34;
+    color: #5FDAFB;
+    display:flex;
+    justify-content: center;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    font-style: normal; 
+    height:50px;
+    padding-top:25px;
+}
+
+.header-title {
+    margin-left: 10px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+   
+}

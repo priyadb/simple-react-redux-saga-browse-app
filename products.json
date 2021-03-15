@@ -1,0 +1,67 @@
+{
+  "products":[  {
+      "id": "PRD6CGTPLRTPUM8",
+      "name": "Panasonic TH-43EQ1U 43\" Class Entry-Level 4K Digital Display",
+      "image": "https://i5.walmartimages.com/asr/5d719675-26b8-4a41-9a2d-190ba9e1cb43_1.68a107a865555d79e526497d518bad77.jpeg",
+      "desc": "Entry-level 4K professional display featuring a thin and stylish design with narrow bezel, offering high quality digital signage with easy installation and high connectivity, ideal for corporate and retail applications.",
+      "price": 1156.99,
+      "status": "available"
+    },
+    {
+      "id": "6000202133624",
+      "name": "Samsung 50\" Crystal Display 4K UHD SMART TV, UN50TU7050FXZC",
+      "image": "https://i5.walmartimages.ca/images/Enlarge/782/915/6000202782915.jpg",
+      "desc": "The TV’s sleek, minimalistic style draws you into a pure cinematic experience – so you see the picture, not the TV. ",
+      "price": 478,
+      "status": "available"
+    },
+    {
+      "id": "6000198367153",
+      "name": "Samsung 43\" Full HD TV, UN43N5000AFXZC",
+      "image": "https://i5.walmartimages.ca/images/Enlarge/783/102/6000202783102.jpg",
+      "desc": "Enjoy the new Samsung 43” FULL HD TV, with Wide Color enhancer, mega contrast, and the HyperReal Samsung Video Engine, to deliver out of this world 1920 x 1080p resolution for your Movies, shows and games.",
+      "price": 348,
+      "status": "unavailable"
+    },
+    {
+      "id": "PRD79GFYOCX7ZJ7",
+      "name": "Bravia X800H 43-inch 4K HDR LED Android Smart TV",
+      "image": "https://i5.walmartimages.com/asr/e2d1dfe5-f153-4dcc-b0ae-c3b38288f721.8bf1d0bb7e17c26ca0789c3279571796.jpeg",
+      "desc": "Step into a new world of 4K HDR colour, contrast, and clarity.",
+      "price": 599.99,
+      "status": "available"
+    },
+    {
+      "id": "PRD5EU0EVC6NHNM",
+      "name": "Sony X800H 65-inch 4K HDR LED Android Smart TV",
+      "image": "https://i5.walmartimages.com/asr/b7d7230f-d990-4114-80a9-4da9a663b628_1.8b642b70990177562791a0e69283b987.jpeg",
+      "desc": "See beautiful pictures, rich with real world detail and texture, powered by our 4K HDR processor X1.",
+      "price": 1098,
+      "status": "available"
+    },
+    {
+      "id": "PRD1Z4C3YOCLSBM",
+      "name": "Sony X950H 75-inch 4K HDR Full Array LED Smart Android TV with Dolby Vision (XBR75X950H)",
+      "image": "https://i5.walmartimages.com/asr/2eaa2bb3-19c4-4bf2-a541-c50afa4d44ba.e251b7202a32c7d9043072956bc810c3.jpeg",
+      "desc": "With advanced Full Array LED technology, you\"ll see crystal-clear 4K HDR images in everything you watch.",
+      "price": 3498,
+      "status": "available"
+    },
+    {
+      "id": "PRD499JH82HHO6E",
+      "name": "LG 43UN7000PUB 43\" 4K UHD HDR LCD webOS Smart TV",
+      "image": "https://i5.walmartimages.com/asr/20c58533-1877-4819-a166-cd548e7d63a4.fae9b40b4d72cbbfcdfdb7f67955ca23.jpeg",
+      "desc": "Enhance your home entertainment experience with this 43\" LG UN70 Series smart TV.",
+      "price": 357,
+      "status": "available"
+    },
+    {
+      "id": "6000199409501",
+      "name": "Philips 55” 4K UHD HDR10 Android Smart TV with Google Assistant Built in, 55PFL5704/F7",
+      "image": "https://i5.walmartimages.ca/images/Enlarge/853/092/6000199853092.jpg",
+      "desc": "The Philips AndroidTV brings great content to you, so you can spend less time browsing and more time watching.",
+      "price": 498,
+      "status": "available"
+    }
+ ]
+}

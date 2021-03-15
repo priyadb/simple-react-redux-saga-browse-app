@@ -1,0 +1,19 @@
+.sort{
+    padding-top:20px;
+}
+
+.sort select{
+    min-width:300px ! important;
+}
+
+@media (max-width: 500px) {
+    .sort select{
+        min-width:50px ! important;       
+    }
+    .sort{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+}
